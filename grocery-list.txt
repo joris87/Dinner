@@ -1,4 +1,5 @@
 Grocery list:
 
 -red wine
--beer 
+-beer
+-bread
